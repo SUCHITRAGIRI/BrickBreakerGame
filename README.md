@@ -1,4 +1,3 @@
-#This is a BricKBreaker Grame Repository
-###Mini project which is created using java language.
+<h1>This is a BrickBreaker Grame</h1><br>
+<h4>Mini project which is created using java language.<h4>
 
-Here is the demo of this game!
